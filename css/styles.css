@@ -1,5 +1,19 @@
+body {
+  padding: 20px;
+}
 .navigation {
   float: left;
   width: 70px;
   padding: 5px;
 }
+
+.nav1 {
+  text-align: left;
+}
+
+.nav2 {
+  text-align: right;
+}
+ .chris {
+   width: 81.3%;
+ }
